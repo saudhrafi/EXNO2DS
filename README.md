@@ -25,8 +25,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 # CODING AND OUTPUT
 
 ```
-Name: Deepika S
-reg no: 212223230039
+Name: Nivash 
+reg no: 212225230203
 ```
 
 ```
